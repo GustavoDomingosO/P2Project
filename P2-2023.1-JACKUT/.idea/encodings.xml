@@ -2,5 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/Main.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/br/ufal/ic/p2/jackut/user/Amizades.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/ufal/ic/p2/jackut/user/Recados.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/ufal/ic/p2/jackut/user/Usuario.java" charset="windows-1252" />
   </component>
 </project>
